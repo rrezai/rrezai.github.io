@@ -4,9 +4,8 @@
 
 title: Ryan Rezai # the website title (if blank, full name will be used instead)
 first_name: Ryan
+middle_name:
 last_name: Rezai
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   BASc, University of Waterloo
 footer_text: >
