@@ -18,6 +18,12 @@ span,
 strong {
   color: var(--global-text-color);
 }
+body {
+  font-family: 'Figtree', sans-serif;
+}
+h2 {
+  font-family: 'Figtree ', sans-serif;
+}
 
 hr {
   border-top: 1px solid var(--global-divider-color);
