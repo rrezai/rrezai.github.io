@@ -15,14 +15,15 @@ em,
 div,
 li,
 span,
+body,
 strong {
   color: var(--global-text-color);
+  .figtree-<uniquifier> {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
-body {
-  font-family: 'Figtree', sans-serif;
-}
-h2 {
-  font-family: 'Figtree ', sans-serif;
 }
 
 hr {
