@@ -13,4 +13,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello. I’m an incoming MSc student at the Electrical and Computer Engineering department at McGill University, with a focus in Intelligent Systems. I’m interested in research questions related to the functionality of medical AI.
+Current MSc student at McGill University / Mila - Quebec Artificial Intelligence Institute.
