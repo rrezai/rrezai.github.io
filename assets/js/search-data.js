@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-photos",
           title: "photos",
-          description: "disposible camera memories",
+          description: "images",
           section: "Navigation",
           handler: () => {
             window.location.href = "/photos/";
